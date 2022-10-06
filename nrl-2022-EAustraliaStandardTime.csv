@@ -1,0 +1,202 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,10/03/2022 09:05,BlueBet Stadium,Panthers,Sea Eagles,28 - 6
+2,1,11/03/2022 07:00,GIO Stadium,Raiders,Sharks,24 - 19
+3,1,11/03/2022 09:05,Suncorp Stadium,Broncos,Rabbitohs,11 - 4
+4,1,12/03/2022 04:00,Sydney Cricket Ground,Roosters,Knights,6 - 20
+5,1,12/03/2022 06:30,Sunshine Coast Stadium,Warriors,Dragons,16 - 28
+6,1,12/03/2022 08:35,CommBank Stadium,Wests Tigers,Storm,16 - 26
+7,1,13/03/2022 05:05,CommBank Stadium,Eels,Titans,32 - 28
+8,1,13/03/2022 07:15,Queensland Country Bank Stadium,Cowboys,Bulldogs,4 - 6
+9,2,17/03/2022 09:05,AAMI Park,Storm,Rabbitohs,15 - 14
+10,2,18/03/2022 07:00,Netstrata Jubilee Stadium,Dragons,Panthers,16 - 20
+11,2,18/03/2022 09:05,Sydney Cricket Ground,Roosters,Sea Eagles,26 - 12
+12,2,19/03/2022 04:00,Cbus Super Stadium,Titans,Warriors,20 - 18
+13,2,19/03/2022 06:30,PointsBet Stadium,Sharks,Eels,18 - 16
+14,2,19/03/2022 08:35,Queensland Country Bank Stadium,Cowboys,Raiders,26 - 6
+15,2,20/03/2022 05:05,McDonald Jones Stadium,Knights,Wests Tigers,26 - 4
+16,2,20/03/2022 07:15,Accor Stadium,Bulldogs,Broncos,10 - 16
+17,3,24/03/2022 09:05,WIN Stadium,Dragons,Sharks,12 - 36
+18,3,25/03/2022 07:00,Campbelltown Sports Stadium,Wests Tigers,Warriors,12 - 16
+19,3,25/03/2022 09:05,Accor Stadium,Rabbitohs,Roosters,28 - 16
+20,3,26/03/2022 04:00,Carrington Park,Panthers,Knights,38 - 20
+21,3,26/03/2022 06:30,AAMI Park,Storm,Eels,24 - 28
+22,3,26/03/2022 08:35,GIO Stadium,Raiders,Titans,24 - 22
+23,3,27/03/2022 05:05,Suncorp Stadium,Broncos,Cowboys,12 - 38
+24,3,27/03/2022 07:15,4 Pines Park,Sea Eagles,Bulldogs,13 - 12
+25,4,31/03/2022 09:05,Cbus Super Stadium,Titans,Wests Tigers,8 - 6
+26,4,01/04/2022 07:00,PointsBet Stadium,Sharks,Knights,18 - 0
+27,4,01/04/2022 09:05,BlueBet Stadium,Panthers,Rabbitohs,26 - 12
+28,4,02/04/2022 04:00,Moreton Daily Stadium,Warriors,Broncos,20 - 6
+29,4,02/04/2022 06:30,Glen Willow Oval,Sea Eagles,Raiders,25 - 6
+30,4,02/04/2022 08:35,Queensland Country Bank Stadium,Cowboys,Roosters,4 - 28
+31,4,03/04/2022 06:05,AAMI Park,Storm,Bulldogs,44 - 0
+32,4,03/04/2022 08:15,CommBank Stadium,Eels,Dragons,48 - 14
+33,5,07/04/2022 09:50,McDonald Jones Stadium,Knights,Sea Eagles,6 - 30
+34,5,08/04/2022 08:00,Moreton Daily Stadium,Warriors,Cowboys,25 - 24
+35,5,08/04/2022 09:55,Suncorp Stadium,Broncos,Roosters,20 - 24
+36,5,09/04/2022 05:00,McDonalds Park,Raiders,Storm,16 - 30
+37,5,09/04/2022 07:30,Accor Stadium,Rabbitohs,Dragons,24 - 12
+38,5,09/04/2022 09:35,Cbus Super Stadium,Titans,Eels,20 - 26
+39,5,10/04/2022 06:05,PointsBet Stadium,Sharks,Wests Tigers,30 - 4
+40,5,10/04/2022 08:15,CommBank Stadium,Bulldogs,Panthers,12 - 32
+41,6,14/04/2022 09:50,GIO Stadium,Raiders,Cowboys,12 - 18
+42,6,15/04/2022 06:00,Accor Stadium,Rabbitohs,Bulldogs,36 - 16
+43,6,15/04/2022 09:55,BlueBet Stadium,Panthers,Broncos,40 - 12
+44,6,16/04/2022 07:30,4 Pines Park,Sea Eagles,Titans,26 - 18
+45,6,16/04/2022 09:35,AAMI Park,Storm,Sharks,34 - 18
+46,6,17/04/2022 04:00,Sydney Cricket Ground,Roosters,Warriors,22 - 14
+47,6,17/04/2022 06:05,WIN Stadium,Dragons,Knights,21 - 16
+48,6,18/04/2022 06:00,CommBank Stadium,Eels,Wests Tigers,20 - 21
+49,7,21/04/2022 09:50,PointsBet Stadium,Sharks,Sea Eagles,34 - 22
+50,7,22/04/2022 09:55,Suncorp Stadium,Broncos,Bulldogs,34 - 14
+51,7,23/04/2022 07:30,Queensland Country Bank Stadium,Cowboys,Titans,30 - 4
+52,7,23/04/2022 09:35,CommBank Stadium,Wests Tigers,Rabbitohs,23 - 22
+53,7,24/04/2022 04:00,McDonald Jones Stadium,Knights,Eels,2 - 39
+54,7,24/04/2022 06:05,BlueBet Stadium,Panthers,Raiders,36 - 6
+55,7,25/04/2022 06:00,Sydney Cricket Ground,Dragons,Roosters,14 - 12
+56,7,25/04/2022 09:00,AAMI Park,Storm,Warriors,70 - 10
+57,8,28/04/2022 09:50,Suncorp Stadium,Broncos,Sharks,16 - 7
+58,8,29/04/2022 08:00,Cbus Super Stadium,Titans,Panthers,4 - 18
+59,8,29/04/2022 09:55,Central Coast Stadium,Rabbitohs,Sea Eagles,40 - 22
+60,8,30/04/2022 05:00,Moreton Daily Stadium,Warriors,Raiders,21 - 20
+61,8,30/04/2022 07:30,Accor Stadium,Bulldogs,Roosters,16 - 12
+62,8,30/04/2022 09:35,TIO Stadium,Eels,Cowboys,4 - 35
+63,8,01/05/2022 04:00,McDonald Jones Stadium,Knights,Storm,2 - 50
+64,8,01/05/2022 06:05,WIN Stadium,Dragons,Wests Tigers,12 - 6
+65,9,05/05/2022 09:50,Accor Stadium,Rabbitohs,Broncos,12 - 32
+66,9,06/05/2022 08:00,GIO Stadium,Raiders,Bulldogs,14 - 4
+67,9,06/05/2022 09:55,BlueBet Stadium,Panthers,Eels,20 - 22
+68,9,07/05/2022 05:00,4 Pines Park,Sea Eagles,Wests Tigers,36 - 22
+69,9,07/05/2022 07:30,BB Print Stadium,Roosters,Titans,44 - 16
+70,9,07/05/2022 09:35,Queensland Country Bank Stadium,Cowboys,Knights,36 - 16
+71,9,08/05/2022 04:00,AAMI Park,Storm,Dragons,42 - 6
+72,9,08/05/2022 06:05,PointsBet Stadium,Sharks,Warriors,29 - 10
+73,10,13/05/2022 08:00,Suncorp Stadium,Bulldogs,Knights,6 - 16
+74,10,13/05/2022 10:05,Suncorp Stadium,Sea Eagles,Broncos,0 - 38
+75,10,14/05/2022 05:00,Suncorp Stadium,Warriors,Rabbitohs,30 - 32
+76,10,14/05/2022 07:30,Suncorp Stadium,Titans,Dragons,20 - 16
+77,10,14/05/2022 09:45,Suncorp Stadium,Storm,Panthers,6 - 32
+78,10,15/05/2022 03:50,Suncorp Stadium,Sharks,Raiders,10 - 30
+79,10,15/05/2022 06:05,Suncorp Stadium,Roosters,Eels,31 - 24
+80,10,15/05/2022 08:25,Suncorp Stadium,Wests Tigers,Cowboys,12 - 36
+81,11,19/05/2022 09:50,McDonald Jones Stadium,Knights,Broncos,12 - 36
+82,11,20/05/2022 08:00,Leichhardt Oval,Wests Tigers,Bulldogs,36 - 22
+83,11,20/05/2022 09:55,CommBank Stadium,Eels,Sea Eagles,22 - 20
+84,11,21/05/2022 05:00,Netstrata Jubilee Stadium,Dragons,Warriors,24 - 18
+85,11,21/05/2022 07:30,Queensland Country Bank Stadium,Cowboys,Storm,36 - 6
+86,11,21/05/2022 09:35,Sydney Cricket Ground,Roosters,Panthers,12 - 32
+87,11,22/05/2022 04:00,Apex Oval,Rabbitohs,Raiders,12 - 32
+88,11,22/05/2022 06:05,Cbus Super Stadium,Titans,Sharks,18 - 25
+89,12,26/05/2022 09:50,AAMI Park,Storm,Sea Eagles,28 - 8
+90,12,27/05/2022 08:00,BlueBet Stadium,Panthers,Cowboys,22 - 0
+91,12,27/05/2022 09:55,Suncorp Stadium,Broncos,Titans,35 - 24
+92,12,28/05/2022 05:00,Moreton Daily Stadium,Warriors,Knights,16 - 24
+93,12,28/05/2022 07:30,Accor Stadium,Rabbitohs,Wests Tigers,44 - 18
+94,12,28/05/2022 09:35,PointsBet Stadium,Sharks,Roosters,16 - 36
+95,12,29/05/2022 04:00,Belmore Sports Ground,Bulldogs,Dragons,24 - 34
+96,12,29/05/2022 06:05,GIO Stadium,Raiders,Eels,20 - 28
+97,13,02/06/2022 09:50,Cbus Super Stadium,Titans,Cowboys,6 - 32
+98,13,03/06/2022 09:55,BlueBet Stadium,Panthers,Bulldogs,30 - 18
+99,13,04/06/2022 09:35,4 Pines Park,Sea Eagles,Warriors,44 - 12
+100,13,05/06/2022 06:05,GIO Stadium,Raiders,Roosters,22 - 16
+101,14,10/06/2022 09:55,Queensland Country Bank Stadium,Cowboys,Dragons,31 - 12
+102,14,11/06/2022 05:00,Cbus Super Stadium,Titans,Rabbitohs,16 - 30
+103,14,11/06/2022 07:30,Sydney Cricket Ground,Roosters,Storm,18 - 26
+104,14,11/06/2022 09:35,Suncorp Stadium,Broncos,Raiders,24 - 18
+105,14,12/06/2022 04:00,Campbelltown Sports Stadium,Wests Tigers,Sea Eagles,4 - 30
+106,14,12/06/2022 06:05,McDonald Jones Stadium,Knights,Panthers,6 - 42
+107,14,12/06/2022 08:15,Moreton Daily Stadium,Warriors,Sharks,16 - 38
+108,14,13/06/2022 06:00,Accor Stadium,Bulldogs,Eels,34 - 4
+109,15,16/06/2022 09:50,WIN Stadium,Dragons,Rabbitohs,32 - 12
+110,15,17/06/2022 08:00,4 Pines Park,Sea Eagles,Cowboys,26 - 28
+111,15,17/06/2022 09:55,AAMI Park,Storm,Broncos,32 - 20
+112,15,18/06/2022 05:00,C.ex Coffs International Stadium,Sharks,Titans,18 - 10
+113,15,18/06/2022 07:30,Moreton Daily Stadium,Warriors,Panthers,6 - 40
+114,15,18/06/2022 09:35,CommBank Stadium,Eels,Roosters,26 - 16
+115,15,19/06/2022 04:00,GIO Stadium,Raiders,Knights,20 - 18
+116,15,19/06/2022 06:05,CommBank Stadium,Bulldogs,Wests Tigers,36 - 12
+117,16,30/06/2022 09:50,4 Pines Park,Sea Eagles,Storm,36 - 30
+118,16,01/07/2022 08:00,McDonald Jones Stadium,Knights,Titans,38 - 12
+119,16,01/07/2022 09:55,BlueBet Stadium,Panthers,Roosters,26 - 18
+120,16,02/07/2022 05:00,CommBank Stadium,Bulldogs,Sharks,6 - 18
+121,16,02/07/2022 07:30,Queensland Country Bank Stadium,Cowboys,Broncos,40 - 26
+122,16,02/07/2022 09:35,Accor Stadium,Rabbitohs,Eels,30 - 12
+123,16,03/07/2022 04:00,Mt Smart Stadium,Warriors,Wests Tigers,22 - 2
+124,16,03/07/2022 06:05,WIN Stadium,Dragons,Raiders,12 - 10
+125,17,07/07/2022 09:50,PointsBet Stadium,Sharks,Storm,28 - 6
+126,17,08/07/2022 09:55,McDonald Jones Stadium,Knights,Rabbitohs,28 - 40
+127,17,09/07/2022 09:35,Leichhardt Oval,Wests Tigers,Eels,20 - 28
+128,17,10/07/2022 06:05,Suncorp Stadium,Broncos,Dragons,32 - 18
+129,18,15/07/2022 08:00,Queensland Country Bank Stadium,Cowboys,Sharks,12 - 26
+130,18,15/07/2022 09:55,CommBank Stadium,Eels,Warriors,28 - 18
+131,18,16/07/2022 05:00,Central Coast Stadium,Roosters,Dragons,54 - 26
+132,18,16/07/2022 07:30,4 Pines Park,Sea Eagles,Knights,42 - 12
+133,18,16/07/2022 09:35,Cbus Super Stadium,Titans,Broncos,12 - 16
+134,18,17/07/2022 04:00,CommBank Stadium,Wests Tigers,Panthers,16 - 18
+135,18,17/07/2022 06:05,AAMI Park,Storm,Raiders,16 - 20
+136,18,17/07/2022 08:15,Accor Stadium,Bulldogs,Rabbitohs,28 - 36
+137,19,21/07/2022 09:50,CommBank Stadium,Eels,Broncos,14 - 36
+138,19,22/07/2022 08:00,Netstrata Jubilee Stadium,Dragons,Sea Eagles,20 - 6
+139,19,22/07/2022 09:55,McDonald Jones Stadium,Knights,Roosters,12 - 42
+140,19,23/07/2022 05:00,GIO Stadium,Raiders,Warriors,26 - 14
+141,19,23/07/2022 07:30,BlueBet Stadium,Panthers,Sharks,20 - 10
+142,19,23/07/2022 09:35,Accor Stadium,Rabbitohs,Storm,24 - 12
+143,19,24/07/2022 04:00,CommBank Stadium,Bulldogs,Titans,36 - 26
+144,19,24/07/2022 06:05,Queensland Country Bank Stadium,Cowboys,Wests Tigers,27 - 26
+145,20,28/07/2022 09:50,4 Pines Park,Sea Eagles,Roosters,10 - 20
+146,20,29/07/2022 08:00,Mt Smart Stadium,Warriors,Storm,12 - 24
+147,20,29/07/2022 09:55,CommBank Stadium,Eels,Panthers,34 - 10
+148,20,30/07/2022 05:00,Cbus Super Stadium,Titans,Raiders,24 - 36
+149,20,30/07/2022 07:30,PointsBet Stadium,Sharks,Rabbitohs,21 - 20
+150,20,30/07/2022 09:35,Suncorp Stadium,Broncos,Wests Tigers,18 - 32
+151,20,31/07/2022 04:00,McDonald Jones Stadium,Knights,Bulldogs,10 - 24
+152,20,31/07/2022 06:05,Netstrata Jubilee Stadium,Dragons,Cowboys,8 - 34
+153,21,04/08/2022 09:50,Sydney Cricket Ground,Roosters,Broncos,34 - 16
+154,21,05/08/2022 08:00,AAMI Park,Storm,Titans,32 - 14
+155,21,05/08/2022 09:55,4 Pines Park,Sea Eagles,Eels,20 - 36
+156,21,06/08/2022 05:00,Sunshine Coast Stadium,Rabbitohs,Warriors,48 - 10
+157,21,06/08/2022 07:30,GIO Stadium,Raiders,Panthers,6 - 26
+158,21,06/08/2022 09:35,PointsBet Stadium,Sharks,Dragons,24 - 18
+159,21,07/08/2022 04:00,Salter Oval,Bulldogs,Cowboys,14 - 28
+160,21,07/08/2022 06:05,Campbelltown Sports Stadium,Wests Tigers,Knights,10 - 14
+161,22,11/08/2022 09:50,BlueBet Stadium,Panthers,Storm,0 - 16
+162,22,12/08/2022 08:00,Mt Smart Stadium,Warriors,Bulldogs,42 - 18
+163,22,12/08/2022 09:55,CommBank Stadium,Eels,Rabbitohs,0 - 26
+164,22,13/08/2022 05:00,Sydney Cricket Ground,Roosters,Cowboys,32 - 18
+165,22,13/08/2022 07:30,Scully Park,Wests Tigers,Sharks,12 - 36
+166,22,13/08/2022 09:35,Suncorp Stadium,Broncos,Knights,28 - 10
+167,22,14/08/2022 04:00,GIO Stadium,Raiders,Dragons,24 - 22
+168,22,14/08/2022 06:05,Cbus Super Stadium,Titans,Sea Eagles,44 - 24
+169,23,18/08/2022 09:50,Accor Stadium,Rabbitohs,Panthers,22 - 26
+170,23,19/08/2022 08:00,Queensland Country Bank Stadium,Cowboys,Warriors,48 - 4
+171,23,19/08/2022 09:55,Suncorp Stadium,Broncos,Storm,12 - 60
+172,23,20/08/2022 05:00,CommBank Stadium,Eels,Bulldogs,42 - 6
+173,23,20/08/2022 07:30,4 Pines Park,Sea Eagles,Sharks,6 - 40
+174,23,20/08/2022 09:35,Sydney Cricket Ground,Roosters,Wests Tigers,72 - 6
+175,23,21/08/2022 04:00,WIN Stadium,Dragons,Titans,46 - 26
+176,23,21/08/2022 06:05,McDonald Jones Stadium,Knights,Raiders,22 - 28
+177,24,25/08/2022 09:50,Suncorp Stadium,Broncos,Eels,6 - 53
+178,24,26/08/2022 08:00,BlueBet Stadium,Panthers,Warriors,46 - 12
+179,24,26/08/2022 09:55,AAMI Park,Storm,Roosters,14 - 18
+180,24,27/08/2022 05:00,GIO Stadium,Raiders,Sea Eagles,48 - 6
+181,24,27/08/2022 07:30,PointsBet Stadium,Sharks,Bulldogs,16 - 0
+182,24,27/08/2022 09:35,Accor Stadium,Rabbitohs,Cowboys,20 - 10
+183,24,28/08/2022 04:00,CommBank Stadium,Wests Tigers,Dragons,22 - 24
+184,24,28/08/2022 06:05,Cbus Super Stadium,Titans,Knights,36 - 26
+185,25,01/09/2022 09:50,CommBank Stadium,Eels,Storm,22 - 14
+186,25,02/09/2022 08:00,Accor Stadium,Bulldogs,Sea Eagles,21 - 20
+187,25,02/09/2022 09:55,Allianz Stadium,Roosters,Rabbitohs,26 - 16
+188,25,03/09/2022 05:00,Mt Smart Stadium,Warriors,Titans,26 - 27
+189,25,03/09/2022 07:30,Netstrata Jubilee Stadium,Dragons,Broncos,22 - 12
+190,25,03/09/2022 09:35,Queensland Country Bank Stadium,Cowboys,Panthers,38 - 8
+191,25,04/09/2022 04:00,McDonald Jones Stadium,Knights,Sharks,16 - 38
+192,25,04/09/2022 06:05,Leichhardt Oval,Wests Tigers,Raiders,10 - 56
+193,26,09/09/2022 09:50,BlueBet Stadium,Panthers,Eels,27 - 8
+194,26,10/09/2022 07:40,AAMI Park,Storm,Raiders,20 - 28
+195,26,10/09/2022 09:50,PointsBet Stadium,Sharks,Cowboys,30 - 32
+196,26,11/09/2022 06:05,Allianz Stadium,Roosters,Rabbitohs,30 - 14
+197,27,16/09/2022 00:00,TBA,,,
+198,27,17/09/2022 00:00,TBA,,,
+199,28,23/09/2022 00:00,TBA,,,
+200,28,24/09/2022 00:00,TBA,,,
+201,29,02/10/2022 00:00,TBA,,,
