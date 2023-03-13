@@ -1,6 +1,6 @@
 
-import pandas as pd
 import numpy as np
+import pandas as pd
 from datetime import datetime
 import os
 
@@ -21,7 +21,8 @@ def getExpectedWinProb(elo_rating, elo_rating_opposition, home_or_away):
 def main():
     folder = os.path.dirname(os.path.realpath(__file__))
     NRLdata = pd.read_csv(folder + "\\nrl-2022-EAustraliaStandardTime.csv")
-    NRLdata["Round"] = NRLdata["Round Number"].apply(lambda x: int(x) if "Final" not in x else -1)
+    NRLdata["Round"] = NRLdata["Round Number"]
+    NRLdata["Round"] = NRLdata["Round"].apply(lambda x: int(x) if type(x)==str and "Final" not in x else -1)
     NRLdata["Datetime"] = NRLdata["Date"].apply(lambda x: datetime.strptime(x, "%d/%m/%Y %H:%M"))
     NRLdata = NRLdata[NRLdata["Round"] > 0]
     df_elos = pd.read_csv(folder + "\\nrl-2022-eloratings.csv", index_col="Team")
