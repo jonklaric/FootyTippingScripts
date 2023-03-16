@@ -1,10 +1,10 @@
-
+# required modules
 import numpy as np
 import pandas as pd
 from datetime import datetime
 import os
 
-from sqlalchemy import true 
+
 
 def getNewElo(elo_rating, W, W_prob):
     return np.round(elo_rating + 12.0*(W-W_prob),2)
