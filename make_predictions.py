@@ -21,12 +21,13 @@ def getExpectedWinProb(elo_rating, elo_rating_opposition, home_or_away):
 
 folder = os.path.dirname(os.path.realpath(__file__))
 
-NRLdata = pd.read_csv(folder + "\\nrl-2022-EAustraliaStandardTime.csv")
-NRLdata["Round"] = NRLdata["Round Number"].apply(lambda x: int(x) if "Final" not in x else -1)
+NRLdata = pd.read_csv(folder + "\\nrl-2023-EAustraliaStandardTime.csv")
+NRLdata["Round"] = NRLdata["Round Number"]
+#NRLdata["Round"] = NRLdata["Round Number"].apply(lambda x: int(x) if "Final" not in x else -1)
 NRLdata["Datetime"] = NRLdata["Date"].apply(lambda x: datetime.strptime(x, "%d/%m/%Y %H:%M"))
 
-df_elos = pd.read_csv(folder + "\\nrl-2022-eloratings.csv", index_col="Team")
-df_elos_modified = pd.read_csv(folder + "\\nrl-2022-eloratings_modified.csv", index_col="Team")
+df_elos = pd.read_csv(folder + "\\nrl-2023-eloratings.csv", index_col="Team")
+df_elos_modified = pd.read_csv(folder + "\\nrl-2023-eloratings_modified.csv", index_col="Team")
 for col in df_elos.columns:
     if col=='0':
         continue
@@ -42,7 +43,7 @@ print(NRLrounddata)
 
 print("Generating footy tips for round {0}".format(round_num))
 probs = []
-output_filename = "\\nrl-2022-round_{0}.txt".format(round_num)
+output_filename = "\\nrl-2023-round_{0}.txt".format(round_num)
 with open(folder + output_filename, "w") as f:
     print("Generating footy tips for round {0}".format(round_num), file=f)
     for i,row in NRLrounddata.iterrows():
