@@ -16,13 +16,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 15,2,12/03/2023 15:05,Leichhardt Oval,Wests Tigers,Knights,12 - 14
 16,2,12/03/2023 17:15,Netstrata Jubilee Stadium,Dragons,Titans,32 - 18
 17,3,16/03/2023 19:00,4 Pines Park,Sea Eagles,Eels,34 - 30
-18,3,17/03/2023 17:00,McDonald Jones Stadium,Knights,Dolphins,
-19,3,17/03/2023 19:00,Allianz Stadium,Roosters,Rabbitohs,
-20,3,18/03/2023 14:00,Cbus Super Stadium,Titans,Storm,
-21,3,18/03/2023 16:30,Queensland Country Bank Stadium,Cowboys,Warriors,
-22,3,18/03/2023 18:35,Suncorp Stadium,Broncos,Dragons,
-23,3,19/03/2023 15:05,Belmore Sports Ground,Bulldogs,Wests Tigers,
-24,3,19/03/2023 17:15,GIO Stadium,Raiders,Sharks,
+18,3,17/03/2023 17:00,McDonald Jones Stadium,Knights,Dolphins,20 - 36
+19,3,17/03/2023 19:00,Allianz Stadium,Roosters,Rabbitohs,20 - 18
+20,3,18/03/2023 14:00,Cbus Super Stadium,Titans,Storm,38 - 34
+21,3,18/03/2023 16:30,Queensland Country Bank Stadium,Cowboys,Warriors,12 - 26
+22,3,18/03/2023 18:35,Suncorp Stadium,Broncos,Dragons,40 - 18
+23,3,19/03/2023 15:05,Belmore Sports Ground,Bulldogs,Wests Tigers,26 - 22
+24,3,19/03/2023 17:15,GIO Stadium,Raiders,Sharks,24 - 20
 25,4,23/03/2023 19:00,CommBank Stadium,Eels,Panthers,
 26,4,24/03/2023 17:00,AAMI Park,Storm,Wests Tigers,
 27,4,24/03/2023 19:00,Suncorp Stadium,Dolphins,Broncos,
@@ -56,7 +56,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 55,7,16/04/2023 14:00,GIO Stadium,Raiders,Dragons,
 56,7,16/04/2023 16:05,CommBank Stadium,Eels,Bulldogs,
 57,8,20/04/2023 19:50,Accor Stadium,Rabbitohs,Panthers,
-58,8,21/04/2023 19:30,TIO Stadium,Eels,Broncos,
+58,8,21/04/2023 20:00,TIO Stadium,Eels,Broncos,
 59,8,22/04/2023 17:30,Accor Stadium,Bulldogs,Sharks,
 60,8,22/04/2023 19:35,Queensland Country Bank Stadium,Cowboys,Knights,
 61,8,23/04/2023 14:00,Suncorp Stadium,Dolphins,Titans,
