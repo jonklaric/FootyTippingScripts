@@ -5,7 +5,7 @@ import os
 def getNRLdata():
     folder = os.path.dirname(os.path.realpath(__file__))
     print(folder)
-    url = "https://fixturedownload.com/download/nrl-2022-EAustraliaStandardTime.csv"
+    url = "https://fixturedownload.com/download/nrl-2023-EAustraliaStandardTime.csv"
     print("Fetching data...")
     r = requests.get(url, verify=True)
     text = r.iter_lines()
