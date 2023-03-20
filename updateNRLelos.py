@@ -20,17 +20,17 @@ def getExpectedWinProb(elo_rating, elo_rating_opposition, home_or_away):
 
 def main():
     folder = os.path.dirname(os.path.realpath(__file__))
-    NRLdata = pd.read_csv(folder + "\\nrl-2022-EAustraliaStandardTime.csv")
+    print(folder)
+    NRLdata = pd.read_csv(folder + "\\nrl-2023-EAustraliaStandardTime.csv")
     NRLdata["Round"] = NRLdata["Round Number"]
-    NRLdata["Round"] = NRLdata["Round"].apply(lambda x: int(x) if type(x)==str and "Final" not in x else -1)
+    #NRLdata["Round"] = NRLdata["Round"].apply(lambda x: int(x) if type(x)!=str and "Final" not in x else -1)
     NRLdata["Datetime"] = NRLdata["Date"].apply(lambda x: datetime.strptime(x, "%d/%m/%Y %H:%M"))
     NRLdata = NRLdata[NRLdata["Round"] > 0]
-    df_elos = pd.read_csv(folder + "\\nrl-2022-eloratings.csv", index_col="Team")
-    df_elos_modified = pd.read_csv(folder + "\\nrl-2022-eloratings_modified.csv", index_col="Team")
+    df_elos = pd.read_csv(folder + "\\nrl-2023-eloratings.csv", index_col="Team")
+    df_elos_modified = pd.read_csv(folder + "\\nrl-2023-eloratings_modified.csv", index_col="Team")
     rounds = sorted(set(NRLdata.dropna(subset=["Result"])['Round Number']))
     rounds = sorted([int(x) for x in rounds])
     rounds = [str(x) for x in rounds]
-    print(rounds)
     #sorted_rounds = [str(x) for x in [int(x) for x in rounds]]
     for round_string in rounds:
         if round_string in df_elos.columns:
@@ -94,8 +94,8 @@ def main():
             continue
         df_elos[col] = df_elos[col].fillna(df_elos[str(int(col)-1)])
         df_elos_modified[col] = df_elos_modified[col].fillna(df_elos_modified[str(int(col)-1)])
-    df_elos.to_csv(folder + "\\nrl-2022-eloratings.csv", index_label="Team")
-    df_elos_modified.to_csv(folder + "\\nrl-2022-eloratings_modified.csv", index_label="Team")
+    df_elos.to_csv(folder + "\\nrl-2023-eloratings.csv", index_label="Team")
+    df_elos_modified.to_csv(folder + "\\nrl-2023-eloratings_modified.csv", index_label="Team")
 
 if __name__ == "__main__":
     main()
