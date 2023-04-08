@@ -9,7 +9,7 @@ def getNRLdata():
     print("Fetching data...")
     r = requests.get(url, verify=True)
     text = r.iter_lines()
-    with open(folder + "\\nrl-2022-EAustraliaStandardTime.csv", "w") as f:
+    with open(folder + "\\nrl-2023-EAustraliaStandardTime.csv", "w") as f:
         for line in text:
             line = str(line).strip("\'").strip("b\'")
             print(line)
