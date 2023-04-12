@@ -36,10 +36,9 @@ def main():
         if round_string in df_elos.columns:
             print("Round {0} is already up to date...".format(round_string))
             continue
-        else:
-            print("Updating Elo ratings for round {0}. \n".format(round_string))
+        print("Updating Elo ratings for round {0}. \n".format(round_string))
         prev_round = str(int(round_string)-1)
-        round_df = NRLdata[NRLdata["Round Number"]==round_string]
+        round_df = NRLdata[NRLdata["Round Number"]==int(round_string)]
         new_elos = {}
         new_elos_mod = {}
         for i,row in round_df.iterrows():
@@ -88,12 +87,9 @@ def main():
         new_elos_mod_df = pd.DataFrame.from_dict(new_elos_mod, orient='index', columns=[round_string])
         df_elos = df_elos.merge(new_elos_df, how='left', left_index=True, right_index=True).sort_values(by=round_string, ascending=False)
         df_elos_modified = df_elos_modified.merge(new_elos_mod_df, how='left', left_index=True, right_index=True).sort_values(by=round_string, ascending=False)
+        df_elos[round_string] = df_elos[round_string].fillna(df_elos[prev_round])
+        df_elos_modified[round_string] = df_elos_modified[round_string].fillna(df_elos_modified[prev_round])
         print("Elo scores updated for round {}. \n".format(round_string))
-    for col in df_elos.columns:
-        if col=='0':
-            continue
-        df_elos[col] = df_elos[col].fillna(df_elos[str(int(col)-1)])
-        df_elos_modified[col] = df_elos_modified[col].fillna(df_elos_modified[str(int(col)-1)])
     df_elos.to_csv(folder + "\\nrl-2023-eloratings.csv", index_label="Team")
     df_elos_modified.to_csv(folder + "\\nrl-2023-eloratings_modified.csv", index_label="Team")
 
