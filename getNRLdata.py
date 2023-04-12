@@ -2,7 +2,7 @@
 import requests
 import os
 
-def getNRLdata():
+def get_nrl_data():
     folder = os.path.dirname(os.path.realpath(__file__))
     print(folder)
     url = "https://fixturedownload.com/download/nrl-2023-EAustraliaStandardTime.csv"
@@ -15,6 +15,7 @@ def getNRLdata():
             print(line)
             f.write(line + "\n")
     print("All done!")
+    return
 
 if __name__ == "__main__":
-    getNRLdata()
+    get_nrl_data()
