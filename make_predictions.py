@@ -84,7 +84,7 @@ with open(folder + output_filename, "w") as f:
             probs.append(min(win_prob_away,win_prob_away_mod))
         print("\t *** Team to Tip: {0}. *** \n".format(tip), file=f)
 
-shutil.copy(folder + output_filename, "C:\\Users\\jonkl\\Desktop" + output_filename)
+#shutil.copy(folder + output_filename, "C:\\Users\\jonkl\\Desktop" + output_filename)
 
 
 N = 100000
