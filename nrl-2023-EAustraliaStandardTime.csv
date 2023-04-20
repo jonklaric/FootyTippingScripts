@@ -47,14 +47,14 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 46,6,09/04/2023 06:05,Cbus Super Stadium,Titans,Dragons,20 - 18
 47,6,09/04/2023 08:15,McDonald Jones Stadium,Knights,Warriors,34 - 24
 48,6,10/04/2023 06:00,Accor Stadium,Wests Tigers,Eels,22 - 28
-49,7,13/04/2023 09:50,Suncorp Stadium,Dolphins,Rabbitohs,
-50,7,14/04/2023 08:00,PointsBet Stadium,Sharks,Roosters,
-51,7,14/04/2023 10:00,4 Pines Park,Sea Eagles,Storm,
-52,7,15/04/2023 05:00,Mt Smart Stadium,Warriors,Cowboys,
-53,7,15/04/2023 07:30,McDonald Jones Stadium,Knights,Panthers,
-54,7,15/04/2023 09:35,Cbus Super Stadium,Titans,Broncos,
-55,7,16/04/2023 04:00,GIO Stadium,Raiders,Dragons,
-56,7,16/04/2023 06:05,CommBank Stadium,Eels,Bulldogs,
+49,7,13/04/2023 09:50,Suncorp Stadium,Dolphins,Rabbitohs,14 - 36
+50,7,14/04/2023 08:00,PointsBet Stadium,Sharks,Roosters,22 - 12
+51,7,14/04/2023 10:00,4 Pines Park,Sea Eagles,Storm,18 - 8
+52,7,15/04/2023 05:00,Mt Smart Stadium,Warriors,Cowboys,22 - 14
+53,7,15/04/2023 07:30,McDonald Jones Stadium,Knights,Panthers,15 - 16
+54,7,15/04/2023 09:35,Cbus Super Stadium,Titans,Broncos,26 - 43
+55,7,16/04/2023 04:00,GIO Stadium,Raiders,Dragons,20 - 14
+56,7,16/04/2023 06:05,CommBank Stadium,Eels,Bulldogs,30 - 4
 57,8,20/04/2023 09:50,Accor Stadium,Rabbitohs,Panthers,
 58,8,21/04/2023 10:00,TIO Stadium,Eels,Broncos,
 59,8,22/04/2023 07:30,Accor Stadium,Bulldogs,Sharks,
@@ -175,7 +175,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 174,24,11/08/2023 08:00,PointsBet Stadium,Sharks,Titans,
 175,24,11/08/2023 10:00,The Gabba,Broncos,Eels,
 176,24,12/08/2023 05:00,Barlow Park,Rabbitohs,Dragons,
-177,24,12/08/2023 07:30,FMG Stadium Waikato,Wests Tigers,Warriors,
+177,24,12/08/2023 09:30,FMG Stadium Waikato,Wests Tigers,Warriors,
 178,24,12/08/2023 09:35,Allianz Stadium,Roosters,Dolphins,
 179,24,13/08/2023 04:00,AAMI Park,Storm,Raiders,
 180,24,13/08/2023 06:05,McDonald Jones Stadium,Knights,Bulldogs,
