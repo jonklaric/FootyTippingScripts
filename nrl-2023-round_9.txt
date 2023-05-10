@@ -1,0 +1,73 @@
+Generating footy tips for round 9
+	 Sharks vs Cowboys
+Regular Elo:	 1555.5 vs 1463.99
+Modified Elo:	 1552.43 vs 1456.13
+Based on the Elo scores, Sharks are the 'stronger' team.
+Based on the Modified Elo scores, Sharks are the 'stronger' team.
+Win probabilities: 0.691 vs 0.309
+Win probs (modified): 0.697 vs 0.303
+	 *** Team to Tip: Sharks. *** 
+
+	 Eels vs Knights
+Regular Elo:	 1558.04 vs 1393.19
+Modified Elo:	 1552.07 vs 1404.69
+Based on the Elo scores, Eels are the 'stronger' team.
+Based on the Modified Elo scores, Eels are the 'stronger' team.
+Win probabilities: 0.773 vs 0.227
+Win probs (modified): 0.755 vs 0.245
+	 *** Team to Tip: Eels. *** 
+
+	 Broncos vs Rabbitohs
+Regular Elo:	 1490.4 vs 1624.12
+Modified Elo:	 1484.43 vs 1626.42
+Based on the Elo scores, Rabbitohs are the 'stronger' team.
+Based on the Modified Elo scores, Rabbitohs are the 'stronger' team.
+Win probabilities: 0.379 vs 0.621
+Win probs (modified): 0.368 vs 0.632
+	 *** Team to Tip: Rabbitohs. *** 
+
+	 Raiders vs Dolphins
+Regular Elo:	 1541.71 vs 1510.25
+Modified Elo:	 1542.3 vs 1503.97
+Based on the Elo scores, Raiders are the 'stronger' team.
+Based on the Modified Elo scores, Raiders are the 'stronger' team.
+Win probabilities: 0.613 vs 0.387
+Win probs (modified): 0.622 vs 0.378
+	 *** Team to Tip: Raiders. *** 
+
+	 Sea Eagles vs Titans
+Regular Elo:	 1487.24 vs 1374.1
+Modified Elo:	 1503.54 vs 1364.85
+Based on the Elo scores, Sea Eagles are the 'stronger' team.
+Based on the Modified Elo scores, Sea Eagles are the 'stronger' team.
+Win probabilities: 0.717 vs 0.283
+Win probs (modified): 0.746 vs 0.254
+	 *** Team to Tip: Sea Eagles. *** 
+
+	 Panthers vs Wests Tigers
+Regular Elo:	 1699.83 vs 1328.21
+Modified Elo:	 1711.35 vs 1344.68
+Based on the Elo scores, Panthers are the 'stronger' team.
+Based on the Modified Elo scores, Panthers are the 'stronger' team.
+Win probabilities: 0.918 vs 0.082
+Win probs (modified): 0.916 vs 0.084
+	 *** Team to Tip: Panthers. *** 
+
+	 Warriors vs Roosters
+Regular Elo:	 1409.88 vs 1620.76
+Modified Elo:	 1403.32 vs 1613.58
+Based on the Elo scores, Roosters are the 'stronger' team.
+Based on the Modified Elo scores, Roosters are the 'stronger' team.
+Win probabilities: 0.229 vs 0.771
+Win probs (modified): 0.23 vs 0.77
+	 *** Team to Tip: Roosters. *** 
+
+	 Dragons vs Bulldogs
+Regular Elo:	 1431.59 vs 1352.7
+Modified Elo:	 1433.91 vs 1347.49
+Based on the Elo scores, Dragons are the 'stronger' team.
+Based on the Modified Elo scores, Dragons are the 'stronger' team.
+Win probabilities: 0.675 vs 0.325
+Win probs (modified): 0.685 vs 0.315
+	 *** Team to Tip: Dragons. *** 
+
